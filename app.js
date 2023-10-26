@@ -26,8 +26,10 @@ let indexRouter = require('./routes/index');
   let bannerRouter = require('./Ecomerce_Project/route/bannerRouter');
   */
 }
-let productRouter = require('./Ecomerce_Project/route/productRouter');
-let bannerRouter = require('./Ecomerce_Project/route/bannerRouter');
+let usersRouter = require('./routes/users');
+let FootballRouter = require('./routes/footballClub');
+let contactManagerRouter = require('./routes/contactManagerRoute');
+let PlayerReviewRouter = require('./routes/playerReview');
 
 //const {entry} = require("react-circle-slider/webpack.config");
 
@@ -69,8 +71,10 @@ app.use('/', indexRouter);
   app.use('/api/products', productRouter);
   app.use('/api/banner', bannerRouter);
 */}
-app.use('/api/products', productRouter);
-app.use('/api/banner', bannerRouter);
+app.use('/api/users', usersRouter);
+app.use('/api/kaeDaung/footballClub', FootballRouter);
+app.use('/api/kaeDaung/manager', contactManagerRouter);
+app.use('/api/kaeDaung/playerReview', PlayerReviewRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

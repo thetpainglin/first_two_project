@@ -56,6 +56,9 @@
       <change afterPath="$PROJECT_DIR$/React/React_Real_two_project_code/src/ecomerce/page/ProductDetails.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/React/React_Real_two_project_code/src/setting/API.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/React/React_Real_two_project_code/src/setting/our_axios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React/React_Real_two_project_code" beforeDir="false" afterPath="$PROJECT_DIR$/React/React_Real_two_project_code" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/React/React_Real_two_project_code/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/React/React_Real_two_project_code/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/React/React_Real_two_project_code/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/React/React_Real_two_project_code/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/React/React_Real_two_project_code/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/React/React_Real_two_project_code/package.json" afterDir="false" />
@@ -70,6 +73,8 @@
       <change beforePath="$PROJECT_DIR$/React/React_Real_two_project_code/src/features/counter/counterSlice.spec.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/React/React_Real_two_project_code/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/React/React_Real_two_project_code/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/React/React_Real_two_project_code/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/React/React_Real_two_project_code/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +82,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/React/React_Real_two_project_code" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -137,6 +142,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658899089839</updated>
       <workItem from="1658899092252" duration="7302000" />
+      <workItem from="1668906510231" duration="419000" />
+      <workItem from="1691910520546" duration="961000" />
+      <workItem from="1693284045893" duration="1653000" />
+      <workItem from="1693488181462" duration="514000" />
+      <workItem from="1694240645722" duration="608000" />
+      <workItem from="1694847788287" duration="6780000" />
+      <workItem from="1695353949570" duration="3402000" />
+      <workItem from="1697194906671" duration="495000" />
     </task>
     <servers />
   </component>
